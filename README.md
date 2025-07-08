@@ -28,14 +28,6 @@ This project classifies air quality into four categories using a custom neural n
 \- Improve feature engineering  
 \- Compare with deep learning models using PyTorch or TensorFlow
 
-## Project Structure
-
-task1_air_quality/  
-\- data/                  - Processed dataset files  
-\- nn_numpy/              - Custom NN implementation  
-\- preprocessing/         - Feature engineering and SMOTE  
-\- training/              - Batch and mini-batch training scripts  
-\- README.md              - This documentation
 
 ## Authors
 
